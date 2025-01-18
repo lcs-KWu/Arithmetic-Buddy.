@@ -11,7 +11,7 @@ import SwiftUI
 struct Arithmetic_Buddy_App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            additionView()
         }
     }
 }
